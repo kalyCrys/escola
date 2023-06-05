@@ -1,7 +1,11 @@
 # escola
-Este projeto é um desafio que me foi proposto, o mesmo diz respeito a criação de um sistema escolar.
+Este projeto é um desafio que me foi proposto, o mesmo será resolvido em Dart e diz respeito a criação de um sistema escolar.
 
-<< Observações >>
+<< DESAFIO >>
+
+Uma	escola	possui	uma	ou	mais	turmas.	Cada	 turma	possui	um	ou	mais alunos.	Uma	nova	escola	
+acaba	 de	 chegar	 na	 cidade e	 promete revolucionar	 a	 educação da	 cidade.	 Essa	 escola	 pretende	
+limitar	o	número	de	alunos	por	turma,	permitindo	no	máximo	5	alunos em	cada	turma.
 
 A	 classe	 Escola	 representa	 a	 nova	 escola	 da	 cidade. Como	 toda	 escola,	 esta	 também	 possui	 seu	
 regimento	interno	que	define	algumas	ações	permitidas:
